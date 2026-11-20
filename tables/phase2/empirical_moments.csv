@@ -1,0 +1,3 @@
+Variable,Mean,Variance,Minimum,Q1,Median,Q3,Maximum,Lower fence,Upper fence,Below lower fence,Above upper fence
+CDRSUM,0.8221503637833468,2.966348488304233,0.0,0.0,0.0,1.0,15.0,-1.5,2.5,0,115
+Thickness_mm,3.0137627324171383,0.12670213145672143,1.214,2.8025,3.0575,3.2515,3.925,2.1290000000000004,3.925,22,0
